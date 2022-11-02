@@ -1,0 +1,2 @@
+.\bin\DataGloveReader.exe
+pause
